@@ -1,2 +1,4 @@
 ![Juana_cv](https://github.com/jgmontoyam/jgmontoyam.github.io/assets/70729731/1cfd7ca2-461e-4844-96e2-8460b2e21603)
+
+
 As a current Ph.D. student in Demography at the University of California, Berkeley, my passion for using data to create a more equitable and just society has driven my academic pursuits. I have extensive training in advanced quantitative methods, including coursework in statistics, economics, and demography, which has given me a strong mathematical foundation and the ability to apply different analysis methods to quantitative data using computing tools like R and Python.
