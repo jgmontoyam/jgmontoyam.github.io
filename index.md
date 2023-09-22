@@ -1,4 +1,4 @@
-**Juana Montoya-Murillo**
+                                                          **Juana Montoya-Murillo**
 
 <img src="./Juana_cv.jpg" alt="Photo" width="300"/>
 
